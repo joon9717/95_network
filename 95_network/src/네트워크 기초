@@ -167,9 +167,9 @@ IPv6 로의 전환 : IPv4의 고갈문제 (42억)
 			
 		3) Port 번호
 		
-		( 0 - 1023 ) 	: System Port ( Well Known Port )
-		( 1024 - 49151 )	: User Port   ( Registered Port )
-		( 49152 - 65535 )	: Dynamic/Private Port
+		( 0 - 1023 ) 	: System Port ( Well Known Port ) : 전세계 표준 
+		( 1024 - 49151 )	: User Port   ( Registered Port ) : 돈내고 등록한사람들
+		( 49152 - 65535 )	: Dynamic/Private Port : 실제 사용자들이 할당됨
 		
 			
 		[ TCP ]
